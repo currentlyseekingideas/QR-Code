@@ -65,7 +65,7 @@ function App() {
             level={"H"}
             includeMargin={false}
             imageSettings={{
-              src: "/thamer.jpg",
+              src: "/thamer.jpeg",
               x: undefined,
               y: undefined,
               height: 60,
